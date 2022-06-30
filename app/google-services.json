@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42228741657",
+    "project_id": "projetobase-d529d",
+    "storage_bucket": "projetobase-d529d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42228741657:android:3fe3979549185a11731c88",
+        "android_client_info": {
+          "package_name": "com.marlon.projetobase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42228741657-njc2orgmhuh58sgjdcskp9uc5rmmt5is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAesjen5EKmO4nNHMd-FVYUSDd7rM_GA6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42228741657-njc2orgmhuh58sgjdcskp9uc5rmmt5is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
